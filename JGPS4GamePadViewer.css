@@ -22,6 +22,11 @@
     
 
     /* Joy Sticks */
+    fill: #000000;
+
+    /* Touch Pad */
+    fill: #080808;
+    /* Touch Pad Lining */
     fill: #121212;
 
     /* Button Primary Color */
